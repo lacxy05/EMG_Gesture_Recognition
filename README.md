@@ -4,8 +4,6 @@ This project focuses on classifying EMG (electromyography) signals into hand ges
 
 ## Project Pipeline
 
-![Project Pipeline Diagram](pipeline_diagram.png)
-
 The project pipeline is modularized across three Jupyter notebooks:
 
 ### 1. Data Exploration (`Data_Exploration.ipynb`)
